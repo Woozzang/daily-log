@@ -1,5 +1,5 @@
 # TIL 🧪
-* 매일 작성하는 러프한 노션 문서를 공유해요.
+* 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
 ### 22.02.20
