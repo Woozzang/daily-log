@@ -3,15 +3,20 @@
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
 ### 22.02.21
-* UILayoutGuide 의 공식 문서를 읽고, 노션에 간단하게 정리했어요.
+* `UILayoutGuide` 의 공식 문서를 읽고, 노션에 간단하게 정리했어요.
   * [UILayoutGuide](https://marsh-flavor-e1c.notion.site/UILayoutGuide-9d1e2f3b12314965894155237b221155)
 * `실용주의 프로그래머` 의 [직교성(orthogonality)] 파트를 읽고 있어요.
   * 직교성은 컴퓨터 공학적으로 접근하면 독립성을 의미해요.
   * A 컴포넌트를 수정해도, 다르 컴포넌트를 수정할 필요가 없다면, A 컴포넌트는 독립적이라고 말할 수 있어요.
   * [독서록 보기](https://marsh-flavor-e1c.notion.site/666737c7191b4bd9b38d91665b92d2a7)
-* ContainerView 의 목적과 사용법을 리마인드 했어요.
+* `Container View` 의 목적과 사용법을 가볍게 리마인드 했어요.
+  * [Container View](https://marsh-flavor-e1c.notion.site/Container-View-ac2afc94c46247e3824afee4d4572af0) 
 * `has-a` 관계와 `uses-a` 관계의 차이가 헷갈려서 관련 글을 찾아보고 노션 페이지에 관련 내용을 추가했어요.
   * [클래스 다이어그램](https://www.notion.so/Read-Class-Diagrams-1658ef65869e49f786f2e7f853a2ceb6#99592503728944f3bd984841a7f0fa47) 
+* `CACornerMask` 의 존재를 알게 되었어요. 이제 위 쪽 양 옆 라운드 처리를 쉽게 할 수 있어요!
+  ![image](https://user-images.githubusercontent.com/70905219/154966526-08eda0f8-09ab-4611-9e7a-dd04eca23570.png)
+  * [CACornerMask](https://marsh-flavor-e1c.notion.site/CACornerMask-2a7f4cd86be44f46aea2eff6b7d4df51)
+
 
 ### 22.02.20
 * Git - Cherry Pick 기능을 공부하고, 블로그 글로 정리했어요.
