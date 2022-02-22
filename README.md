@@ -2,6 +2,14 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.02.22
+* Protocol Oriented Programming 과 관련된 글을 읽고, 간단하게 정리 했어요.
+  * 프로토콜 기본 구현, 프로토콜의 다중 상속, 다형성, Retroactive Modeling 등의 이야기가 나와요.
+  * [POP](https://marsh-flavor-e1c.notion.site/Protocol-Oriented-Programming-4ec781a6ab7443ec9e3790471c53eeca)
+* UIModalPresentation 의 개념을 완전히 이해하고, 정리했어요.
+  * [노션 글 보기](https://marsh-flavor-e1c.notion.site/UIModalPresentationStyle-f2c14809e156403f9248571eb010132d)
+* 
+
 ### 22.02.21
 * `UILayoutGuide` 의 공식 문서를 읽고, 노션에 간단하게 정리했어요.
   * [UILayoutGuide](https://marsh-flavor-e1c.notion.site/UILayoutGuide-9d1e2f3b12314965894155237b221155)
