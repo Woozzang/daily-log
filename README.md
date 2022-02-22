@@ -8,7 +8,8 @@
   * [POP](https://marsh-flavor-e1c.notion.site/Protocol-Oriented-Programming-4ec781a6ab7443ec9e3790471c53eeca)
 * UIModalPresentation 의 개념을 완전히 이해하고, 정리했어요.
   * [노션 글 보기](https://marsh-flavor-e1c.notion.site/UIModalPresentationStyle-f2c14809e156403f9248571eb010132d)
-* 
+* Behavioral Pattern 중 하나인 Memento 패턴을 복습하고 정리했어요.
+  * [노션 글 보기](https://marsh-flavor-e1c.notion.site/Memento-Pattern-c49fa4df5a9a4daba32330c72a65685c) 
 
 ### 22.02.21
 * `UILayoutGuide` 의 공식 문서를 읽고, 노션에 간단하게 정리했어요.
