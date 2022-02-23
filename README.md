@@ -4,7 +4,8 @@
 
 ### 22.02.23
 * iOS Fundamental Design Patterns 강의를 이어서 수강하고, 배운 내용을 정리 했어요.
-  * [Observer Pattern](https://marsh-flavor-e1c.notion.site/Observer-af540ae64e084059bd6a8f341f462f49)  
+  * [Observer Pattern](https://marsh-flavor-e1c.notion.site/Observer-af540ae64e084059bd6a8f341f462f49)
+  * [Builder Pattern - 작성 중](https://marsh-flavor-e1c.notion.site/Builder-336ce4ea06b642ee97f69f4708db0d10)
 * Preconditions 와 Assertions 를 잘 활용하고 싶어서 자료도 보고 강의도 봤는데, 아직 좋은 활용 방법을 잘 모르겠어요.😅
   * [노션 글 보기](https://marsh-flavor-e1c.notion.site/Assertions-Preconditions-6b4b8e2ce30e421495748ff3d9d269bc)
 
