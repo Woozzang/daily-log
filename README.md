@@ -2,6 +2,12 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.02.23
+* iOS Fundamental Design Patterns 강의를 이어서 수강하고, 배운 내용을 정리 했어요.
+  * [Observer Pattern](https://marsh-flavor-e1c.notion.site/Observer-af540ae64e084059bd6a8f341f462f49)  
+* Preconditions 와 Assertions 를 잘 활용하고 싶어서 자료도 보고 강의도 봤는데, 아직 좋은 활용 방법을 잘 모르겠어요.😅
+  * [노션 글 보기](https://marsh-flavor-e1c.notion.site/Assertions-Preconditions-6b4b8e2ce30e421495748ff3d9d269bc)
+
 ### 22.02.22
 * Protocol Oriented Programming 과 관련된 글을 읽고, 간단하게 정리 했어요.
   * 프로토콜 기본 구현, 프로토콜의 다중 상속, 다형성, Retroactive Modeling 등의 이야기가 나와요.
