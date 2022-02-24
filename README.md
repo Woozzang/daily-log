@@ -2,6 +2,12 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.02.24
+* [iOS_TDD_by_Tutorials] 13 장을 읽었어요.
+* [iOS Fundamental Design Patterns] 완강 했어요 🎉🎉
+  * [노션 글 목록 보러가기]
+  * 이제 진도 나가기는 잠시 쉬고, 일주일 동안 같은 주제의 다른 글들을 읽으며 내용을 보충할거에요.
+
 ### 22.02.23
 * iOS Fundamental Design Patterns 강의를 이어서 수강하고, 배운 내용을 정리 했어요.
   * [Observer Pattern](https://marsh-flavor-e1c.notion.site/Observer-af540ae64e084059bd6a8f341f462f49)
