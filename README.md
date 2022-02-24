@@ -5,7 +5,7 @@
 ### 22.02.24
 * [iOS_TDD_by_Tutorials] 13 장을 읽었어요.
 * [iOS Fundamental Design Patterns] 완강 했어요 🎉🎉
-  * [노션 글 목록 보러가기]
+  * [노션 글 목록 보러가기](https://marsh-flavor-e1c.notion.site/Fundamental-iOS-Design-Patterns-66b399e06ca94c2f8b91a011ecc57da0)
   * 이제 진도 나가기는 잠시 쉬고, 일주일 동안 같은 주제의 다른 글들을 읽으며 내용을 보충할거에요.
 
 ### 22.02.23
