@@ -2,6 +2,11 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.02.25
+* 매일 작성하고 있었던 노트를 이제 노션에도 옮겨적으려고해요.
+  * [오늘의 노트 👀](https://marsh-flavor-e1c.notion.site/My-MoleSkin-18ed1071edb04a87affb20ea9559c9ef)
+* [SceneDelegate 인스턴스 접근하기 👈🏻](https://marsh-flavor-e1c.notion.site/SceneDelegate-411eab5c959346468f147bddeb1b972e)
+
 ### 22.02.24
 * [iOS_TDD_by_Tutorials] 13 장을 읽었어요.
 * [iOS Fundamental Design Patterns] 완강 했어요 🎉🎉
