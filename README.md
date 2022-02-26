@@ -2,8 +2,19 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.02.26 ☔️
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-2-896c19df33ea4dcc974511ecd92b1b8c)
+  * 유대인의 사고법
+  * 발전은 선형적으로 일어나지 않는다
+* **`📖 실용주의 프로그래머`**
+  * 디버깅에 대한 주제를 읽었어요.
+  * [독서록 보기 👈🏻](https://marsh-flavor-e1c.notion.site/ca9320059fc341299d856c8aa15fe16c)
+* **[iOS_TDD_by_Tutorials] 13 장** 에 잠깐 언급되었더 커맨드 패턴을 찾아보고 정리하고 있어요.
+  * [Command 패턴](https://marsh-flavor-e1c.notion.site/Command-24035f7445ec40b4a7d9762549be8844)
+
 ### 22.02.25
 * 매일 작성하고 있었던 노트를 이제 노션에도 옮겨적으려고해요.
+  * `결국은 모두 글쓰기`
   * [오늘의 노트 👀](https://marsh-flavor-e1c.notion.site/My-MoleSkin-18ed1071edb04a87affb20ea9559c9ef)
 * [SceneDelegate 인스턴스 접근하기 👈🏻](https://marsh-flavor-e1c.notion.site/SceneDelegate-411eab5c959346468f147bddeb1b972e)
 
