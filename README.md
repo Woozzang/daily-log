@@ -2,6 +2,12 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.02.27 🧣
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-2-896c19df33ea4dcc974511ecd92b1b8c)
+* **`📖 1%의 네트워크 원리`**
+  * `소켓을 작성한다` 부분을 복습했어요.
+  * [작성한 블로그 글 보러가기 👈🏻](https://woozzang.tistory.com/178)
+
 ### 22.02.26 ☔️
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-2-896c19df33ea4dcc974511ecd92b1b8c)
   * 유대인의 사고법
