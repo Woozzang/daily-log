@@ -3,7 +3,7 @@
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 ### 22.03.02 ☀️
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4bacb3b96028442bb11d3cc8e29e6227)
-  * Shell 과 Shell 스크립트 간단 정리
+  * (자동화 준비를 위한) Shell 과 Shell 스크립트 정리 시작
 ### 22.02.28 ☀️
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-2-2901623bf1b84948b7f6e2afe1c9792a)
 * **`📖 1%의 네트워크 원리`**
