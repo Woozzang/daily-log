@@ -2,6 +2,15 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.03.04
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4bacb3b96028442bb11d3cc8e29e6227)
+* **`📱 App`**
+  * [Shell 정리 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/Shell-d86f8dd7c80044a187c5fd956f4e61e4)
+* **`💻 CS`**
+  * [포트와 소켓 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/3fd6933e6b3349449f878390bd349236)
+* **`👀 Reading List`**
+  * [zsh command 정리](https://www.sitepoint.com/zsh-commands-plugins-aliases-tools)
+  * [쉬운코드 유튜브 채널](https://www.youtube.com/channel/UCReNwSTQ1RqDZDnG9Qz_gyg/videos)
 ### 22.03.03
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4bacb3b96028442bb11d3cc8e29e6227)
 * **`네트워크 주제`** 를 다룬 3개의 영상을 보고 정리했어요.
