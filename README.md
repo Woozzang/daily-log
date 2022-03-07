@@ -5,6 +5,7 @@
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
 * **`📱 App`**
   * RxSwift 강의를 들었어요.
+  * [테이블 뷰의 생명주기 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/TableView-Life-Cycle-ab50c1be405c419daaf00a08dc7ba220)
 ### 22.03.06
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4bacb3b96028442bb11d3cc8e29e6227)
   * [Bash 에서 변수 사용하기 👈🏻](https://marsh-flavor-e1c.notion.site/Bash-7c675f2a0dd344388c5143f689fc1a10)
