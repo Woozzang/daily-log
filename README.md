@@ -1,6 +1,15 @@
 # TIL 🧪
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
+
+### 22.03.09 🔖
+* **`📖 1%의 네트워크 원리`**
+  * `데이터를 송수신한다` 부분을 읽고 정리했어요.
+  * [작성한 노션 글 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/03-52d0f037ffb04b92916e0b231db2d4fa)
+
+### 22.03.08
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
+
 ### 22.03.07
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
 * **`📱 App`**
