@@ -2,6 +2,11 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.03.10 🤞🏻
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
+  * [application/octet-stream 정리 글 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/application-octet-stream-205e8a41bbff487ab3f3b580e11aa0d7)
+  * [RxCocoa+Tableview 정리 글 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/Rx-TableView-01aa5c120ad2462080ac57712fe7e39c)
+  * [HTTP HEAD Method 보러가기 👈](https://marsh-flavor-e1c.notion.site/HEAD-Method-9a3c59b6ee4548c18a23fdb9c7febcc2)
 ### 22.03.09 🔖
 * **`📖 1%의 네트워크 원리`**
   * `데이터를 송수신한다` 부분을 읽고 정리했어요.
