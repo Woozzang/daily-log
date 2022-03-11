@@ -2,6 +2,12 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+
+### 22.03.11 🤞🏻
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
+  * [HLS 정리 글 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/HLS-HTTP-5d7784c29ac141fabac4bd12a2b46b8b)
+
+
 ### 22.03.10 🤞🏻
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
   * [application/octet-stream 정리 글 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/application-octet-stream-205e8a41bbff487ab3f3b580e11aa0d7)
