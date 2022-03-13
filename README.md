@@ -2,6 +2,15 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.03.13
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
+* RxSwift - Share 연산자의 동작 원리를 정리했어요.
+  * [multicast 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/multicast-c9884643a21847f2b9338ba21ab2fa36)
+  * [refCount 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/refCount-52c181c624bb40bea059fb97aed632d6)
+  * [share 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/share-84413bed53a64d899d3b42b2f67efe7a)
+* **`👀 Reading List`**
+  * [클래스를 높이는 방법](https://youtu.be/USV29iNJvLg)
+
 
 ### 22.03.11 🤞🏻
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-4b7f7917e3234db1aff594b5d0c37109)
