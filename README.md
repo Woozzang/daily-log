@@ -2,6 +2,11 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.03.15
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-f8aa4ed42b6241a6acf83ed10b651c21)
+* **`GraphQL`** 도입 준비를 하고 있어요. 
+  * [GraphQL 정리 글 보러가기 👈🏻](https://marsh-flavor-e1c.notion.site/GraphQL-6b1f709bf76f422eb9e97d353ce0db78)
+
 ### 22.03.14
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-f8aa4ed42b6241a6acf83ed10b651c21)
 
