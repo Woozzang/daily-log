@@ -2,6 +2,9 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.03.25
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-c23ceec3784d4894b49813e3144cb227)
+
 ### 22.03.24
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-c23ceec3784d4894b49813e3144cb227)
 
@@ -16,6 +19,8 @@
 
 ### 22.03.20
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-f8aa4ed42b6241a6acf83ed10b651c21)
+* **`📖 조엘 온 소프트웨어`**
+  * [**결코 하지 말아야하는 일, 제 1부**](https://marsh-flavor-e1c.notion.site/24-1-80fb622d74734d70a0d33cd2fc17140c) 를 읽고 정리했어요.
 
 ### 22.03.17
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-f8aa4ed42b6241a6acf83ed10b651c21)
