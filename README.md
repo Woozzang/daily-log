@@ -4,6 +4,11 @@
 
 ### 22.03.30
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-0b1ccd1bed894d70b65cbba8bef30722)
+* **`📌 Today's Keywords - 노트에 등장한 키워드들`**
+  * githooks
+  * (shell) [sed command](https://marsh-flavor-e1c.notion.site/Stream-Editor-sed-c7a4f2d77bd849a48edcda7d2746c06c), positional arguments
+  * BDD 세미나 참여
+  * Edit Breakpoint
 
 ### 22.03.29
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-0b1ccd1bed894d70b65cbba8bef30722)
