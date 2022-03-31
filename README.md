@@ -2,6 +2,10 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+### 22.03.31
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-0b1ccd1bed894d70b65cbba8bef30722)
+
+
 ### 22.03.30
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-0b1ccd1bed894d70b65cbba8bef30722)
 * **`📌 Today's Keywords - 노트에 등장한 키워드들`**
