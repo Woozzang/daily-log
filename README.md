@@ -3,7 +3,7 @@
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
 ### 22.04.01 😛
-* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/2022-3-0b1ccd1bed894d70b65cbba8bef30722)
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/4-ebfc0db89f434d3db849cc314c5f8770)
 
 
 ### 22.03.31
