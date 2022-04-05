@@ -9,7 +9,8 @@
   * case-esas
   * 서버 응답값 처리 중 깨달은 점
   * BASE64
-
+* **오랜만에 블로그 포스팅 했어요**
+  * [유니코드와 UTF-8](https://woozzang.tistory.com/185)
 ### 22.04.04
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/4-f3fa3ac79a1a4498ba1ffb8aa67d2355)
 * **`📌 Today's Keywords - 노트에 등장한 키워드들`**
