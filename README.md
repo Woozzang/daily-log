@@ -3,7 +3,7 @@
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
 ### 22.05.08 (일요일)
-* [**`📝 오늘의 노트`**]()
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/5-7961422953f0416babc50f8a93363717)
 - [**Dart 학습**](https://www.notion.so/Dart-4bb8f6e167274a5eba9f6c4d5b53fd76)
     - async, await
     - stream - async*, yield, yield*
