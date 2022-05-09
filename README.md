@@ -4,7 +4,7 @@
  
 ### 22.05.09 (일요일)
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/5-209ade550d6f412795bd4aee871f3b96)
-- **Platfrom Channel** `이해 완료`
+- **Platform Channel** `이해 완료`
     - flutter → Swift
     - Swift → flutter
     - 의사소통방식
