@@ -1,6 +1,21 @@
 # TIL 🧪
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
+ 
+### 22.05.09 (일요일)
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/5-209ade550d6f412795bd4aee871f3b96)
+- **Platfrom Channel** `이해 완료`
+    - flutter → Swift
+    - Swift → flutter
+    - 의사소통방식
+- **ATDD 스터디 준비 독서**
+    - [4장 테스트 주도 주기 시작](https://www.notion.so/4-8f908fe0551b49399656fa6e43d576fb)
+    - [5장 테스트 주도 개발 주기의 유지](https://www.notion.so/5-6733bcd2404d469c9693bb27a695e0e3)
+- **Objective-C 에서 ‘+’ 와 ‘-’ 의 의미 파악**
+    - [x]  iOS 페이지 하위 새로운 경로 만들기
+    - [x]  그곳에 적기
+    
+    [메서드](https://www.notion.so/f79613b561bb490582989267d2bbe0fa)
 
 ### 22.05.08 (일요일)
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/5-7961422953f0416babc50f8a93363717)
