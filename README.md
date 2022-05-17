@@ -1,8 +1,11 @@
 # TIL 🧪
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
- 
-### 22.05.09 (일요일)
+
+### 22.05.17 (화요일)
+* [WWDC21::ARC in Swift: Basics and beyond 요약 정리](https://woozzang.tistory.com/186)
+
+### 22.05.09 (월요일)
 * [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/5-209ade550d6f412795bd4aee871f3b96)
 - **Platform Channel** `이해 완료`
     - flutter → Swift
