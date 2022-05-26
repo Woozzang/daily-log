@@ -2,6 +2,35 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+# 05/26 (목요일)
+- **프로토버프를 사용해야할 작업이 생길 것 같아서, gRPC 에 관한 글을 읽어보았다.**
+    - [추천 글](https://medium.com/naver-cloud-platform/nbp-기술-경험-시대의-흐름-grpc-깊게-파고들기-1-39e97cb3460)
+- **lldb 명령어 중 v 를 처음 사용해봄**
+    - `po dump(someInstance)` 은
+    - `v someInstance` 와 같은 동작을 한다.
+    - 자세한 것은 wwdc 영상에서 확인해볼수 있다고 한다. (TODO에 추가)
+- **유닛 테스트 관련 글** `정리 중`
+    - [iOS Testing](https://www.notion.so/iOS-Testing-538015d67a7c45b1ba47b9509b188f8b)
+- **리눅스 명령어 스키마**
+    - `command -options params`
+    - 독립적으로 parameter 를 요구하는 옵션도 있다.
+    - [Linux Command Line](https://www.notion.so/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72) `내용 추가 완료`
+    
+# 05/25 (수요일)
+- **리눅스 커맨드 라인 강의**
+    - GNU, Linux Kernel `수강 완료`
+    - [Linux Command Line](https://www.notion.so/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
+    
+# 05/23 (월요일)
+- 크래시리틱스에 fatal 과 Non-fatal 로 나누어서 관리
+    - fatal: 실제 크래시
+    - **non-fatal : CS 운영을 용이하게 하기위한 수단**
+        - 관련 정보에 정확한 발생 시점, user id 등을 포함하고 있기 때문이다.
+    - 참고: Analytics 는 발생 시점이 정확하지 않다고 판단하여 추세 확인용으로 사용 중
+    - [x]  기존 목표를 달성하기 위해  Non-fatal 이슈의 지라티켓 자동생성 옵션을 해제
+- Material Design - Snackbars 살펴보기 `완료`
+    - [https://material.io/components/snackbars](https://material.io/components/snackbars)
+    
 ### 22.05.17 (화요일)
 * [WWDC21::ARC in Swift: Basics and beyond 요약 정리](https://woozzang.tistory.com/186)
 
