@@ -2,6 +2,9 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+# 05/29 (일요일)
+* [WWDC18 - iOS Memory Deep Dive 1/2 정리](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
+
 # 05/26 (목요일)
 - **프로토버프를 사용해야할 작업이 생길 것 같아서, gRPC 에 관한 글을 읽어보았다.**
     - [추천 글](https://medium.com/naver-cloud-platform/nbp-기술-경험-시대의-흐름-grpc-깊게-파고들기-1-39e97cb3460)
