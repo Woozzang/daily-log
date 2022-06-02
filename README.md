@@ -2,6 +2,13 @@
 * 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
 * [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
 
+# 06/02 (목요일)
+- **Repository Pattern 글 읽고 정리하기**
+    - 데이터 레이어를 앱으로부터 분리시키는 패턴
+    - [Repository Pattern](https://www.notion.so/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
+- **Adapter Pattern 글 읽고 정리하기**
+    - [Adapter Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
+
 # 05/30 (월요일)
 * [.xib 사용하기](https://woozzang.tistory.com/189)
 # 05/29 (일요일)
