@@ -5,7 +5,7 @@
 # 06/02 (목요일)
 - **Repository Pattern 글 읽고 정리하기**
     - 데이터 레이어를 앱으로부터 분리시키는 패턴
-    - [Repository Pattern](https://www.notion.so/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
+    - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - **Adapter Pattern 글 읽고 정리하기**
     - [Adapter Pattern](https://www.notion.so/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 
@@ -62,7 +62,7 @@
     [메서드](https://www.notion.so/f79613b561bb490582989267d2bbe0fa)
 
 ### 22.05.08 (일요일)
-* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/5-7961422953f0416babc50f8a93363717)
+* [**`📝 오늘의 노트`**](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - [**Dart 학습**](https://www.notion.so/Dart-4bb8f6e167274a5eba9f6c4d5b53fd76)
     - async, await
     - stream - async*, yield, yield*
