@@ -1,6 +1,4 @@
-# TIL 🧪
-* 매일 공부하며 작성하는 러프한 노션 문서를 공유해요.
-* [`Back to the Basics`](https://woozzang.tistory.com/manage)라는 블로그도 운영하고 있어요.
+# Daily Log 🥷🏻
 
 # 06/02 (목요일)
 - **Repository Pattern 글 읽고 정리하기**
