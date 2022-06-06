@@ -1,4 +1,5 @@
 # Daily Log 🥷🏻
+[What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
 # 06/02 (목요일)
 - **Repository Pattern 글 읽고 정리하기**
