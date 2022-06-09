@@ -1,6 +1,8 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.09 (목요일)
+- [NSCache 정리](https://marsh-flavor-e1c.notion.site/NSCache-db4e893409474d6ab163e0d1bcdff9aa)
 # 06/02 (목요일)
 - **Repository Pattern 글 읽고 정리하기**
     - 데이터 레이어를 앱으로부터 분리시키는 패턴
