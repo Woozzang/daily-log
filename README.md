@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.10 (금요일)
+- 2주 동안 Flutter 만 파보기. 무엇을 얻을 수 있을지 기대된다.
+
 # 06.09 (목요일)
 - [NSCache](https://marsh-flavor-e1c.notion.site/NSCache-db4e893409474d6ab163e0d1bcdff9aa)
 # 06/02 (목요일)
