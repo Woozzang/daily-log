@@ -1,6 +1,11 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.14 (화요일)
+- [Flutter Navigation](https://marsh-flavor-e1c.notion.site/Navigation-29227e83c7604ab0a05fa225a05f209b)
+- [토이 프로젝트 - video_player](https://marsh-flavor-e1c.notion.site/cf05e2facd524acab75bc7683f405537)
+- [RxSwift combineLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/CombineLatest-8c80966dddba4f83bfd0928066c11b10)
+
 # 06.10 (금요일)
 - 2주 동안 Flutter 만 파보기. 무엇을 얻을 수 있을지 기대된다.
 
