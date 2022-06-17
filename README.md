@@ -11,7 +11,7 @@
 - [RxSwift combineLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/CombineLatest-8c80966dddba4f83bfd0928066c11b10)
 
 # 06.10 (금요일)
-- 2주 동안 Flutter 만 파보기. 무엇을 얻을 수 있을지 기대된다.
+- ~~2주 동안 Flutter 만 파보기. ~~
 
 # 06.09 (목요일)
 - [NSCache](https://marsh-flavor-e1c.notion.site/NSCache-db4e893409474d6ab163e0d1bcdff9aa)
