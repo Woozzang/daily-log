@@ -1,6 +1,10 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.17 (금요일)
+- [flatMap 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMap-79dcd1d42a0943699a9e18cc670db4d3)
+- [flatMapLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMapLatest-876feaf7a55340c5a111115e49e7935d)
+
 # 06.14 (화요일)
 - [Flutter Navigation](https://marsh-flavor-e1c.notion.site/Navigation-29227e83c7604ab0a05fa225a05f209b)
 - [토이 프로젝트 - video_player](https://marsh-flavor-e1c.notion.site/cf05e2facd524acab75bc7683f405537)
