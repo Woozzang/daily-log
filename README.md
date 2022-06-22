@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.22 (수요일)
+- [기초논리학 - 추론](https://marsh-flavor-e1c.notion.site/62032cc6de214e2f97395ebf8dd1ff2e)
+
 # 06.17 (금요일)
 - [flatMap 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMap-79dcd1d42a0943699a9e18cc670db4d3)
 - [flatMapLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMapLatest-876feaf7a55340c5a111115e49e7935d)
