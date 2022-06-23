@@ -1,6 +1,10 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.23 (목요일)
+- [linux command line- terminal shortcut 정리](https://marsh-flavor-e1c.notion.site/Section-9-151209af3f1341eaa8e6767f8200c346)
+- [serial 한 네트워크 처리를 위한 고민과 학습](https://marsh-flavor-e1c.notion.site/7fc814ac273244feb91eb8c8e7800f5f)
+
 # 06.22 (수요일)
 - [기초논리학 - 추론](https://marsh-flavor-e1c.notion.site/62032cc6de214e2f97395ebf8dd1ff2e)
 
