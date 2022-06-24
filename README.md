@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+# 06.24 (금요일)
+- [RxOperator zip 의 복습](https://marsh-flavor-e1c.notion.site/zip-608f318082bc481db14c7f817cce31d3)
+
 # 06.23 (목요일)
 - [linux command line- terminal shortcut 정리](https://marsh-flavor-e1c.notion.site/Section-9-151209af3f1341eaa8e6767f8200c346)
 - [serial 한 네트워크 처리를 위한 고민과 학습](https://marsh-flavor-e1c.notion.site/7fc814ac273244feb91eb8c8e7800f5f)
