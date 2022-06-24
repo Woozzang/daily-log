@@ -2,7 +2,9 @@
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
 # 06.24 (금요일)
-- [RxOperator zip 의 복습](https://marsh-flavor-e1c.notion.site/zip-608f318082bc481db14c7f817cce31d3)
+- [RxOperator zip 복습](https://marsh-flavor-e1c.notion.site/zip-608f318082bc481db14c7f817cce31d3)
+- [RxOperator withLatestFrom 복습](https://marsh-flavor-e1c.notion.site/withLatestFrom-69439186058f461fa42e448c75d3e930)
+- [linux command line- cat, less, tac, rev](https://marsh-flavor-e1c.notion.site/Section-10-58f85d116ebb45888fe97423573b45c9)
 
 # 06.23 (목요일)
 - [linux command line- terminal shortcut 정리](https://marsh-flavor-e1c.notion.site/Section-9-151209af3f1341eaa8e6767f8200c346)
