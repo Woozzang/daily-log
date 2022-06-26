@@ -1,48 +1,51 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
-# 06.25 (토요일)
+## 06.25 (일요일)
+- [Swift Runtime 간단 조사 및 정리](https://marsh-flavor-e1c.notion.site/Swift-Runtime-2d90b25690104f0bb9933747612064e7)
+
+## 06.25 (토요일)
 - [linux command line- head, tail, sort, wc](https://marsh-flavor-e1c.notion.site/Section-10-58f85d116ebb45888fe97423573b45c9)
 
-# 06.24 (금요일)
+## 06.24 (금요일)
 - [RxOperator zip 복습](https://marsh-flavor-e1c.notion.site/zip-608f318082bc481db14c7f817cce31d3)
 - [RxOperator withLatestFrom 복습](https://marsh-flavor-e1c.notion.site/withLatestFrom-69439186058f461fa42e448c75d3e930)
 - [linux command line- cat, less, tac, rev](https://marsh-flavor-e1c.notion.site/Section-10-58f85d116ebb45888fe97423573b45c9)
 
-# 06.23 (목요일)
+## 06.23 (목요일)
 - [linux command line- terminal shortcut 정리](https://marsh-flavor-e1c.notion.site/Section-9-151209af3f1341eaa8e6767f8200c346)
 - [serial 한 네트워크 처리를 위한 고민과 학습](https://marsh-flavor-e1c.notion.site/7fc814ac273244feb91eb8c8e7800f5f)
 
-# 06.22 (수요일)
+## 06.22 (수요일)
 - [기초논리학 - 추론](https://marsh-flavor-e1c.notion.site/62032cc6de214e2f97395ebf8dd1ff2e)
 
-# 06.17 (금요일)
+## 06.17 (금요일)
 - [flatMap 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMap-79dcd1d42a0943699a9e18cc670db4d3)
 - [flatMapLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMapLatest-876feaf7a55340c5a111115e49e7935d)
 
-# 06.14 (화요일)
+## 06.14 (화요일)
 - [Flutter Navigation](https://marsh-flavor-e1c.notion.site/Navigation-29227e83c7604ab0a05fa225a05f209b)
 - [토이 프로젝트 - video_player](https://marsh-flavor-e1c.notion.site/cf05e2facd524acab75bc7683f405537)
 - [RxSwift combineLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/CombineLatest-8c80966dddba4f83bfd0928066c11b10)
 
-# 06.10 (금요일)
+## 06.10 (금요일)
 - ~~2주 동안 Flutter 만 파보기~~
 
-# 06.09 (목요일)
+## 06.09 (목요일)
 - [NSCache](https://marsh-flavor-e1c.notion.site/NSCache-db4e893409474d6ab163e0d1bcdff9aa)
-# 06/02 (목요일)
+## 06/02 (목요일)
 - **Repository Pattern 글 읽고 정리하기**
     - 데이터 레이어를 앱으로부터 분리시키는 패턴
     - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - **Adapter Pattern 글 읽고 정리하기**
     - [Adapter Pattern](https://marsh-flavor-e1c.notion.site/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 
-# 05/30 (월요일)
+## 05/30 (월요일)
 * [.xib 사용하기](https://woozzang.tistory.com/189)
 # 05/29 (일요일)
 * [WWDC18 - iOS Memory Deep Dive 1/2 정리](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
 
-# 05/26 (목요일)
+## 05/26 (목요일)
 - **프로토버프를 사용해야할 작업이 생길 것 같아서, gRPC 에 관한 글을 읽어보았다.**
     - [추천 글](https://medium.com/naver-cloud-platform/nbp-기술-경험-시대의-흐름-grpc-깊게-파고들기-1-39e97cb3460)
 - **lldb 명령어 중 v 를 처음 사용해봄**
@@ -56,12 +59,12 @@
     - 독립적으로 parameter 를 요구하는 옵션도 있다.
     - [Linux Command Line](https://www.notion.so/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72) `내용 추가 완료`
     
-# 05/25 (수요일)
+## 05/25 (수요일)
 - **리눅스 커맨드 라인 강의**
     - GNU, Linux Kernel `수강 완료`
     - [Linux Command Line](https://www.notion.so/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
     
-# 05/23 (월요일)
+## 05/23 (월요일)
 - 크래시리틱스에 fatal 과 Non-fatal 로 나누어서 관리
     - fatal: 실제 크래시
     - **non-fatal : CS 운영을 용이하게 하기위한 수단**
