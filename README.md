@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 06.26 (월요일)
+- [linux command line - redirection](https://marsh-flavor-e1c.notion.site/Section-11-c6276a701e454d9292efce8423c6560b)
+
 ## 06.25 (일요일)
 - [Swift Runtime 간단 조사 및 정리](https://marsh-flavor-e1c.notion.site/Swift-Runtime-2d90b25690104f0bb9933747612064e7)
 
