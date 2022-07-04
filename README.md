@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 07.04 (월요일)
+- [뷰 컨트롤러 생명주기 복습 및 정리](https://marsh-flavor-e1c.notion.site/View-Controller-Life-Cycle-e901015db5ae4a71afd241df6b7a486d)
+
 ## 06.26 (월요일)
 - [linux command line - redirection](https://marsh-flavor-e1c.notion.site/Section-11-c6276a701e454d9292efce8423c6560b)
 
