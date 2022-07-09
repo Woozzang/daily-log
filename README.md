@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 07.09 (토요일)
+- [Custom URL Scheme 간단 정리](https://marsh-flavor-e1c.notion.site/Custom-URL-Scheme-62805fc6162e41feb9e3e97f5164cec5)
+
 ## 07.04 (월요일)
 - [뷰 컨트롤러 생명주기 복습 및 정리](https://marsh-flavor-e1c.notion.site/View-Controller-Life-Cycle-e901015db5ae4a71afd241df6b7a486d)
 
