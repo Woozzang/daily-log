@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 07.10 (일요일)
+- [Code Signing 간단 정리](https://marsh-flavor-e1c.notion.site/Code-Signing-3d1f9f55ae93430e905501949fb49c6c)
+
 ## 07.09 (토요일)
 - [Custom URL Scheme 간단 정리](https://marsh-flavor-e1c.notion.site/Custom-URL-Scheme-62805fc6162e41feb9e3e97f5164cec5)
 
