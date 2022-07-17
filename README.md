@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 07.17 (일요일)
+- [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
+
 ## 07.10 (일요일)
 - [Code Signing 간단 정리](https://marsh-flavor-e1c.notion.site/Code-Signing-3d1f9f55ae93430e905501949fb49c6c)
 
