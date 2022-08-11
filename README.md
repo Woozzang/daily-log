@@ -1,5 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+
+## 08.11 (목요일)
+- [Property Wrapper 정리](https://marsh-flavor-e1c.notion.site/Property-Wrapper-fd58febe9e3b4909b6bcc21bf701086b)
+
 ## 08.07 (일요일)
 - [클린코드 04, 05장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
