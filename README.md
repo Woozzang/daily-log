@@ -2,7 +2,7 @@
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
 ## 08.13 (토요일)
-- [AnyObject](https://marsh-flavor-e1c.notion.site/AnyObject-7bc09ac551ca40ac8f78340255085310)
+- [AnyObject ](https://marsh-flavor-e1c.notion.site/AnyObject-7bc09ac551ca40ac8f78340255085310)
 
 ## 08.11 (목요일)
 - [Property Wrapper 정리](https://marsh-flavor-e1c.notion.site/Property-Wrapper-fd58febe9e3b4909b6bcc21bf701086b)
