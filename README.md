@@ -1,5 +1,7 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+## 08.14 (일요일)
+- [클린코드 06, 07장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
 ## 08.13 (토요일)
 - [AnyObject ](https://marsh-flavor-e1c.notion.site/AnyObject-7bc09ac551ca40ac8f78340255085310)
