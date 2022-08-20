@@ -1,5 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+
+## 08.20 (토요일)
+- [Swift Docs - String Performance Optimizations 부분 정리](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)
+
 ## 08.14 (일요일)
 - [클린코드 06, 07장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
