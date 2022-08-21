@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 08.21 (일요일)
+- [Swift String - Grapheme cluster, Canonicla equivalence에 대한 이해](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58#7945c7f362fa486bbb9383403c52fb38)
+
 ## 08.20 (토요일)
 - [Swift Docs - String Performance Optimizations 부분 정리](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)
 
