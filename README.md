@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 08.28 (일요일)
+- [클린코드 10, 11장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
+
 ## 08.22 (월요일)
 - [Swift String 정리 1차 마무리](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)
 
