@@ -1,5 +1,7 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+## 08.30 (화요일)
+- [Expert Swift 01장 스터디](https://marsh-flavor-e1c.notion.site/Chapter-1-Introduction-5fac6efc539a4f778089f859fdb40a4b)
 
 ## 08.28 (일요일)
 - [클린코드 10, 11장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
