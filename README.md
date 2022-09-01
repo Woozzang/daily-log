@@ -1,5 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+
+## 09.01 (목요일)
+- [Swift Compiler - Whole Module Optimization](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
+
 ## 08.30 (화요일)
 - [Expert Swift 01장 스터디](https://marsh-flavor-e1c.notion.site/Chapter-1-Introduction-5fac6efc539a4f778089f859fdb40a4b)
 
