@@ -3,7 +3,7 @@
 ## 09.14 (수요일)
 - [Expert Swift 02장 - Types & Mutation 스터디](https://marsh-flavor-e1c.notion.site/Chapter-2-Types-Mutation-6388bb4ca0f946b4a09c8ad7fb973d82)
 - [App Thinning 정리]()
-- [UIApplicationMain(_:_:_:_:) 정리]()
+- [UIApplicationMain(_ :_ :_ :_ :) 정리]()
 
 ## 09.02 (금요일)
 - [WWDC15 -Optimizing Swift Performance 정리](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
