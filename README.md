@@ -5,6 +5,9 @@
 - [App Thinning 정리]()
 - [UIApplicationMain(_ :_ :_ :_ :) 정리]()
 
+## 09.13 (화요일)
+- [블로그 포스팅 - 커맨드 라인에서 사용할 툴체인 지정하기](https://woozzang.tistory.com/191)
+
 ## 09.02 (금요일)
 - [WWDC15 -Optimizing Swift Performance 정리](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
 - [Swift Compiler - Whole Module Optimization 수정](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
