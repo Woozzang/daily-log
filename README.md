@@ -2,7 +2,7 @@
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 ## 09.14 (수요일)
 - [Expert Swift 02장 - Types & Mutation 스터디](https://marsh-flavor-e1c.notion.site/Chapter-2-Types-Mutation-6388bb4ca0f946b4a09c8ad7fb973d82)
-- [App Thinning 정리]()
+- [App Thinning 정리](https://marsh-flavor-e1c.notion.site/App-thinning-f28b6f53bccd49a6b41072afebc70aab)
 - [UIApplicationMain(_ :_ :_ :_ :) 정리]()
 
 ## 09.13 (화요일)
