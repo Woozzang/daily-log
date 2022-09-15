@@ -3,7 +3,7 @@
 ## 09.14 (수요일)
 - [Expert Swift 02장 - Types & Mutation 스터디](https://marsh-flavor-e1c.notion.site/Chapter-2-Types-Mutation-6388bb4ca0f946b4a09c8ad7fb973d82)
 - [App Thinning 정리](https://marsh-flavor-e1c.notion.site/App-thinning-f28b6f53bccd49a6b41072afebc70aab)
-- [UIApplicationMain(_ :_ :_ :_ :) 정리]()
+- [UIApplicationMain(_ :_ :_ :_ :) 정리](https://marsh-flavor-e1c.notion.site/UIApplicationMain-0e40600e9b43402980753ad791c82bd6)
 
 ## 09.13 (화요일)
 - [블로그 포스팅 - 커맨드 라인에서 사용할 툴체인 지정하기](https://woozzang.tistory.com/191)
