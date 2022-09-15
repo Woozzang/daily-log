@@ -1,5 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+
+## 09.15 (목요일)
+- [Main event loop 정리](https://marsh-flavor-e1c.notion.site/Main-event-loop-5468f1eb056a4aac92a139c2d87753be)
+
 ## 09.14 (수요일)
 - [Expert Swift 02장 - Types & Mutation 스터디](https://marsh-flavor-e1c.notion.site/Chapter-2-Types-Mutation-6388bb4ca0f946b4a09c8ad7fb973d82)
 - [App Thinning 정리](https://marsh-flavor-e1c.notion.site/App-thinning-f28b6f53bccd49a6b41072afebc70aab)
