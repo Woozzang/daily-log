@@ -1,5 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
+
+## 10.02 (일요일)
+- [Understanding Swift Performance 정리 및 후속공부(virtual function & vtable)](https://marsh-flavor-e1c.notion.site/Understanding-Swift-Performance-0179abc234884e12810507e8e36b5fba)
+
 ## 09.28 (수요일)
 - [Expert Swift 04장 - Generics 정리](https://marsh-flavor-e1c.notion.site/Chapter-4-Generics-818c6087dd684439823b0f9878af0a49)
 ## 09.15 (목요일)
