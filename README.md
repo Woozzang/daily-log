@@ -1,6 +1,10 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 10.10 (월요일)
+- [What's new in UIKit : WWDC2022 정리](https://marsh-flavor-e1c.notion.site/What-s-new-in-UIKit-WWDC2022-c5ec24525de5498cb0c764d4ec8299b5)
+- [present(_:animated:completion)](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621380-present) 다시 보기 ->  `presentingViewController` 가 present(_:)를 직접 호출한 VC 가 아닐 수도 있다.
+
 ## 10.02 (일요일)
 - [Understanding Swift Performance 정리 및 후속공부(virtual function & vtable)](https://marsh-flavor-e1c.notion.site/Understanding-Swift-Performance-0179abc234884e12810507e8e36b5fba)
 
