@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 10.23 (일요일)
+- [Diffable DataSource 학습](https://marsh-flavor-e1c.notion.site/UICollectionViewDiffableDataSource-c4a3c0c9fb47446b8da6fb39fa59900b)
+
 ## 10.21 (금요일)
 - [prsentingViewController 정리](https://marsh-flavor-e1c.notion.site/presentingViewController-807f579758544f338532c59900acd058)
 
