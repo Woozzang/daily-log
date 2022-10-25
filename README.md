@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 10.24 (월요일)
+- [새싹 WWDC 스터디에서 세션 내용 발표 - WWDC 21: ARC in Swift: Basic and Beyond](https://marsh-flavor-e1c.notion.site/ARC-in-Swift-Basic-and-beyond-bcdeafb8cff04034a11451d376c4e77e)
+
 ## 10.23 (일요일)
 - [Diffable DataSource 학습](https://marsh-flavor-e1c.notion.site/UICollectionViewDiffableDataSource-c4a3c0c9fb47446b8da6fb39fa59900b)
 
