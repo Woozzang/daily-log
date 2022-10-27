@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 10.27 (목요일)
+- [Concurrency 공부중 - Defining and Calling Asynchronous Functions, Asynchronous Sequences 정리](https://marsh-flavor-e1c.notion.site/Concurrency-d8b508205d8b43f08bba2256919a59e0)
+
 ## 10.24 (월요일)
 - [새싹 WWDC 스터디에서 세션 내용 발표 - WWDC 21: ARC in Swift: Basic and Beyond](https://marsh-flavor-e1c.notion.site/ARC-in-Swift-Basic-and-beyond-bcdeafb8cff04034a11451d376c4e77e)
 
