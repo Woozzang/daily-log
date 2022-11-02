@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.01 (화요일)
+- [Diffable DataSource 복습 및 정리](https://marsh-flavor-e1c.notion.site/UICollectionViewDiffableDataSource-c4a3c0c9fb47446b8da6fb39fa59900b)
+
 ## 10.27 (목요일)
 - [Concurrency 공부중 - Defining and Calling Asynchronous Functions, Asynchronous Sequences 정리](https://marsh-flavor-e1c.notion.site/Concurrency-d8b508205d8b43f08bba2256919a59e0)
 
