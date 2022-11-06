@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.06 (일요일)
+- [[Swift] didSet 이 호출되는 쓰레드는?](https://woozzang.tistory.com/195)
+
 ## 11.01 (화요일)
 - [Diffable DataSource 복습 및 정리](https://marsh-flavor-e1c.notion.site/UICollectionViewDiffableDataSource-c4a3c0c9fb47446b8da6fb39fa59900b)
 
