@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.06 (월요일)
+- [Calling Asynchronous Functions in Parallel 정리](https://marsh-flavor-e1c.notion.site/Concurrency-d8b508205d8b43f08bba2256919a59e0#2328ac3efa5a45f0a58fcdef64d11622)
+
 ## 11.06 (일요일)
 - [[Swift] didSet 이 호출되는 쓰레드는?](https://woozzang.tistory.com/195)
 
