@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.08 (수요일)
+- [Actors 읽은 부분 정리](https://marsh-flavor-e1c.notion.site/Actors-c67651ccf84b4e97959ee2c3af5a096f)
+
 ## 11.07 (월요일)
 - [Calling Asynchronous Functions in Parallel 정리](https://marsh-flavor-e1c.notion.site/Concurrency-d8b508205d8b43f08bba2256919a59e0#2328ac3efa5a45f0a58fcdef64d11622)
 
