@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.09 (목요일)
+- [SubscribeOn 과 ObserveOn 의 차이 정리](https://marsh-flavor-e1c.notion.site/SubscribeOn-ObserveOn-36418970644b4af0a598056f1111d323)
+
 ## 11.08 (수요일)
 - [Actors 읽은 부분 정리](https://marsh-flavor-e1c.notion.site/Actors-c67651ccf84b4e97959ee2c3af5a096f)
 
