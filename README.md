@@ -1,6 +1,11 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.19 (토요일)
+### 📚 디자인 패턴에 뛰어들기
+- [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
+- [OOP의 기둥들](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
+
 ## 11.15 (화요일)
 - [Swift Actor 정리](https://marsh-flavor-e1c.notion.site/Actors-c67651ccf84b4e97959ee2c3af5a096f)
 - [Sendable Types 정리](https://marsh-flavor-e1c.notion.site/Sendable-Types-8b3acf088c1648f78a598787a6152ce8)
