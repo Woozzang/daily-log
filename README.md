@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 11.20 (일요일)
+- [Multi-Module App 정리](https://marsh-flavor-e1c.notion.site/Multi-Module-App-39af1a8d13e4495b827035fb2cb7d122)
+
 ## 11.19 (토요일)
 ### 📚 디자인 패턴에 뛰어들기
 - [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
