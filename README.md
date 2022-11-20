@@ -1,163 +1,165 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
-## 11.20 (일요일)
+## 22.11.20 (일요일)
 - [Multi-Module App 정리](https://marsh-flavor-e1c.notion.site/Multi-Module-App-39af1a8d13e4495b827035fb2cb7d122)
+- [Bundle - Framework Bundles 정리](https://marsh-flavor-e1c.notion.site/Bundle-Framework-Bundles-a730719e87f54774a86b019351c6d1e6)
 
-## 11.19 (토요일)
+## 22.11.19 (토요일)
 ### 📚 디자인 패턴에 뛰어들기
 - [OOP의 기초](https://marsh-flavor-e1c.notion.site/OOP-8726371f1e2d4c8fa672a5488f923c79)
 - [OOP의 기둥들](https://marsh-flavor-e1c.notion.site/OOP-44d19199f1c046cdac1ca496d0390413)
 
-## 11.15 (화요일)
+## 22.11.15 (화요일)
 - [Swift Actor 정리](https://marsh-flavor-e1c.notion.site/Actors-c67651ccf84b4e97959ee2c3af5a096f)
 - [Sendable Types 정리](https://marsh-flavor-e1c.notion.site/Sendable-Types-8b3acf088c1648f78a598787a6152ce8)
 
-## 11.09 (목요일)
+## 22.11.09 (목요일)
 - [[RxSwift]SubscribeOn 과 ObserveOn 의 차이 정리](https://marsh-flavor-e1c.notion.site/SubscribeOn-ObserveOn-36418970644b4af0a598056f1111d323)
 
-## 11.08 (수요일)
+## 22.11.08 (수요일)
 - [Actors 읽은 부분 정리](https://marsh-flavor-e1c.notion.site/Actors-c67651ccf84b4e97959ee2c3af5a096f)
 
-## 11.07 (월요일)
+## 22.11.07 (월요일)
 - [Calling Asynchronous Functions in Parallel 정리](https://marsh-flavor-e1c.notion.site/Concurrency-d8b508205d8b43f08bba2256919a59e0#2328ac3efa5a45f0a58fcdef64d11622)
 
-## 11.06 (일요일)
+## 22.11.06 (일요일)
 - [[Swift] didSet 이 호출되는 쓰레드는?](https://woozzang.tistory.com/195)
 
-## 11.01 (화요일)
+## 22.11.01 (화요일)
 - [Diffable DataSource 복습 및 정리](https://marsh-flavor-e1c.notion.site/UICollectionViewDiffableDataSource-c4a3c0c9fb47446b8da6fb39fa59900b)
 
-## 10.27 (목요일)
+## 22.10.27 (목요일)
 - [Concurrency 공부중 - Defining and Calling Asynchronous Functions, Asynchronous Sequences 정리](https://marsh-flavor-e1c.notion.site/Concurrency-d8b508205d8b43f08bba2256919a59e0)
 
-## 10.24 (월요일)
+## 22.10.24 (월요일)
 - [새싹 WWDC 스터디에서 세션 내용 발표 - WWDC 21: ARC in Swift: Basic and Beyond](https://marsh-flavor-e1c.notion.site/ARC-in-Swift-Basic-and-beyond-bcdeafb8cff04034a11451d376c4e77e)
 
-## 10.23 (일요일)
+## 22.10.23 (일요일)
 - [Diffable DataSource 학습](https://marsh-flavor-e1c.notion.site/UICollectionViewDiffableDataSource-c4a3c0c9fb47446b8da6fb39fa59900b)
 
-## 10.21 (금요일)
+## 22.10.21 (금요일)
 - [prsentingViewController 정리](https://marsh-flavor-e1c.notion.site/presentingViewController-807f579758544f338532c59900acd058)
 
-## 10.10 (월요일)
+## 22.10.10 (월요일)
 - [What's new in UIKit : WWDC2022 정리](https://marsh-flavor-e1c.notion.site/What-s-new-in-UIKit-WWDC2022-c5ec24525de5498cb0c764d4ec8299b5)
 - [present(_:animated:completion)](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621380-present) 다시 보기 ->  `presentingViewController` 가 present(_:)를 직접 호출한 VC 가 아닐 수도 있다.
 
-## 10.02 (일요일)
+## 22.10.02 (일요일)
 - [Understanding Swift Performance 정리 및 후속공부(virtual function & vtable)](https://marsh-flavor-e1c.notion.site/Understanding-Swift-Performance-0179abc234884e12810507e8e36b5fba)
 
-## 09.28 (수요일)
+## 22.09.28 (수요일)
 - [Expert Swift 04장 - Generics 정리](https://marsh-flavor-e1c.notion.site/Chapter-4-Generics-818c6087dd684439823b0f9878af0a49)
-## 09.15 (목요일)
+## 22.09.15 (목요일)
 - [Main event loop 정리](https://marsh-flavor-e1c.notion.site/Main-event-loop-5468f1eb056a4aac92a139c2d87753be)
 
-## 09.14 (수요일)
+## 22.09.14 (수요일)
 - [Expert Swift 02장 - Types & Mutation 스터디](https://marsh-flavor-e1c.notion.site/Chapter-2-Types-Mutation-6388bb4ca0f946b4a09c8ad7fb973d82)
 - [App Thinning 정리](https://marsh-flavor-e1c.notion.site/App-thinning-f28b6f53bccd49a6b41072afebc70aab)
 - [UIApplicationMain(_ :_ :_ :_ :) 정리](https://marsh-flavor-e1c.notion.site/UIApplicationMain-0e40600e9b43402980753ad791c82bd6)
 
-## 09.13 (화요일)
+## 22.09.13 (화요일)
 - [블로그 포스팅 - 커맨드 라인에서 사용할 툴체인 지정하기](https://woozzang.tistory.com/191)
 
-## 09.02 (금요일)
+## 22.09.02 (금요일)
 - [WWDC15 -Optimizing Swift Performance 정리](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
 - [Swift Compiler - Whole Module Optimization 수정](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
 - [Module 간단 정리](https://marsh-flavor-e1c.notion.site/Module-37b45595351b44d2812552d35d79c5a0)
 
-## 09.01 (목요일)
+## 22.09.01 (목요일)
 - [Swift Compiler - Whole Module Optimization 정리](https://marsh-flavor-e1c.notion.site/Whole-Module-Optimization-3ce814c2e7bb4277b78ddd58c5dc7e70)
 
-## 08.30 (화요일)
+## 22.08.30 (화요일)
 - [Expert Swift 01장 스터디](https://marsh-flavor-e1c.notion.site/Chapter-1-Introduction-5fac6efc539a4f778089f859fdb40a4b)
 
-## 08.28 (일요일)
+## 22.08.28 (일요일)
 - [클린코드 10, 11장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
-## 08.22 (월요일)
+## 22.08.22 (월요일)
 - [Swift String 정리 1차 마무리](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)
 
-## 08.21 (일요일)
+## 22.08.21 (일요일)
 - [Swift String - Grapheme cluster, Canonical equivalence에 대한 이해](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58#7945c7f362fa486bbb9383403c52fb38)
 
-## 08.20 (토요일)
+## 22.08.20 (토요일)
 - [Swift Docs - String Performance Optimizations 부분 정리](https://marsh-flavor-e1c.notion.site/Strings-and-Characters-69f92292f7bd47ed93917383625a5c58)
 
-## 08.14 (일요일)
+## 22.08.14 (일요일)
 - [클린코드 06, 07장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
-## 08.13 (토요일)
+## 22.08.13 (토요일)
 - [AnyObject ](https://marsh-flavor-e1c.notion.site/AnyObject-7bc09ac551ca40ac8f78340255085310)
 
-## 08.11 (목요일)
+## 22.08.11 (목요일)
 - [Property Wrapper 정리](https://marsh-flavor-e1c.notion.site/Property-Wrapper-fd58febe9e3b4909b6bcc21bf701086b)
 
-## 08.07 (일요일)
+## 22.08.07 (일요일)
 - [클린코드 04, 05장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
-## 07.31 (일요일)
+## 22.07.31 (일요일)
 - [클린코드 01, 02, 03장 스터디](https://marsh-flavor-e1c.notion.site/Clean-Code-61c5579d556a4a83a5e7ff7818fb8d4e)
 
-## 07.17 (일요일)
+## 22.07.17 (일요일)
 - [Coordinator Pattern](https://marsh-flavor-e1c.notion.site/Coordinator-Pattern-52ccb3dbf8ad4818988c56760fbc2fc2)
 
-## 07.10 (일요일)
+## 22.07.10 (일요일)
 - [Code Signing 간단 정리](https://marsh-flavor-e1c.notion.site/Code-Signing-3d1f9f55ae93430e905501949fb49c6c)
 
-## 07.09 (토요일)
+## 22.07.09 (토요일)
 - [Custom URL Scheme 간단 정리](https://marsh-flavor-e1c.notion.site/Custom-URL-Scheme-62805fc6162e41feb9e3e97f5164cec5)
 
-## 07.04 (월요일)
+## 22.07.04 (월요일)
 - [뷰 컨트롤러 생명주기 복습 및 정리](https://marsh-flavor-e1c.notion.site/View-Controller-Life-Cycle-e901015db5ae4a71afd241df6b7a486d)
 
-## 06.26 (월요일)
+## 22.06.26 (월요일)
 - [linux command line - redirection](https://marsh-flavor-e1c.notion.site/Section-11-c6276a701e454d9292efce8423c6560b)
 
-## 06.25 (일요일)
+## 22.06.25 (일요일)
 - [Swift Runtime 간단 조사 및 정리](https://marsh-flavor-e1c.notion.site/Swift-Runtime-2d90b25690104f0bb9933747612064e7)
 
-## 06.25 (토요일)
+## 22.06.25 (토요일)
 - [linux command line- head, tail, sort, wc](https://marsh-flavor-e1c.notion.site/Section-10-58f85d116ebb45888fe97423573b45c9)
 
-## 06.24 (금요일)
+## 22.06.24 (금요일)
 - [RxOperator zip 복습](https://marsh-flavor-e1c.notion.site/zip-608f318082bc481db14c7f817cce31d3)
 - [RxOperator withLatestFrom 복습](https://marsh-flavor-e1c.notion.site/withLatestFrom-69439186058f461fa42e448c75d3e930)
 - [linux command line- cat, less, tac, rev](https://marsh-flavor-e1c.notion.site/Section-10-58f85d116ebb45888fe97423573b45c9)
 
-## 06.23 (목요일)
+## 22.06.23 (목요일)
 - [linux command line- terminal shortcut 정리](https://marsh-flavor-e1c.notion.site/Section-9-151209af3f1341eaa8e6767f8200c346)
 - [serial 한 네트워크 처리를 위한 고민과 학습](https://marsh-flavor-e1c.notion.site/7fc814ac273244feb91eb8c8e7800f5f)
 
-## 06.22 (수요일)
+## 22.06.22 (수요일)
 - [기초논리학 - 추론](https://marsh-flavor-e1c.notion.site/62032cc6de214e2f97395ebf8dd1ff2e)
 
-## 06.17 (금요일)
+## 22.06.17 (금요일)
 - [flatMap 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMap-79dcd1d42a0943699a9e18cc670db4d3)
 - [flatMapLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/flatMapLatest-876feaf7a55340c5a111115e49e7935d)
 
-## 06.14 (화요일)
+## 22.06.14 (화요일)
 - [Flutter Navigation](https://marsh-flavor-e1c.notion.site/Navigation-29227e83c7604ab0a05fa225a05f209b)
 - [토이 프로젝트 - video_player](https://marsh-flavor-e1c.notion.site/cf05e2facd524acab75bc7683f405537)
 - [RxSwift combineLatest 복습 및 정리](https://marsh-flavor-e1c.notion.site/CombineLatest-8c80966dddba4f83bfd0928066c11b10)
 
-## 06.10 (금요일)
+## 22.06.10 (금요일)
 - ~~2주 동안 Flutter 만 파보기~~
 
-## 06.09 (목요일)
+## 22.06.09 (목요일)
 - [NSCache](https://marsh-flavor-e1c.notion.site/NSCache-db4e893409474d6ab163e0d1bcdff9aa)
-## 06/02 (목요일)
+## 22.06.02 (목요일)
 - **Repository Pattern 글 읽고 정리하기**
     - 데이터 레이어를 앱으로부터 분리시키는 패턴
     - [Repository Pattern](https://marsh-flavor-e1c.notion.site/Repository-Pattern-e5e5992bef014a699f990b47743ea34e)
 - **Adapter Pattern 글 읽고 정리하기**
     - [Adapter Pattern](https://marsh-flavor-e1c.notion.site/Adapter-Pattern-46a40d2186ee4cd79602baa70b99b10f)
 
-## 05/30 (월요일)
+## 22.05.30 (월요일)
 * [.xib 사용하기](https://woozzang.tistory.com/189)
-# 05/29 (일요일)
+
+## 22.05/29 (일요일)
 * [WWDC18 - iOS Memory Deep Dive 1/2 정리](https://marsh-flavor-e1c.notion.site/iOS-Memory-Deep-Dive-d01a578ee6ea4bd8b5da68f030eb1b14)
 
-## 05/26 (목요일)
+## 22.05.26 (목요일)
 - **프로토버프를 사용해야할 작업이 생길 것 같아서, gRPC 에 관한 글을 읽어보았다.**
     - [추천 글](https://medium.com/naver-cloud-platform/nbp-기술-경험-시대의-흐름-grpc-깊게-파고들기-1-39e97cb3460)
 - **lldb 명령어 중 v 를 처음 사용해봄**
@@ -171,12 +173,12 @@
     - 독립적으로 parameter 를 요구하는 옵션도 있다.
     - [Linux Command Line](https://www.notion.so/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72) `내용 추가 완료`
     
-## 05/25 (수요일)
+## 22.05.25 (수요일)
 - **리눅스 커맨드 라인 강의**
     - GNU, Linux Kernel `수강 완료`
     - [Linux Command Line](https://www.notion.so/Linux-Command-Line-cc1755a537e8487590b67ff37c974a72)
     
-## 05/23 (월요일)
+## 22.05.23 (월요일)
 - 크래시리틱스에 fatal 과 Non-fatal 로 나누어서 관리
     - fatal: 실제 크래시
     - **non-fatal : CS 운영을 용이하게 하기위한 수단**
