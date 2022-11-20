@@ -2,7 +2,7 @@
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
 ## 22.11.20 (일요일)
-- [Multi-Module App 정리](https://marsh-flavor-e1c.notion.site/Multi-Module-App-39af1a8d13e4495b827035fb2cb7d122)
+- [Multi-Module App 정리](https://marsh-flavor-e1c.notion.site/Multi-Module-App-28133378db9c49c39a49475c0742c69b)
 - [Bundle - Framework Bundles 정리](https://marsh-flavor-e1c.notion.site/Bundle-Framework-Bundles-a730719e87f54774a86b019351c6d1e6)
 
 ## 22.11.19 (토요일)
