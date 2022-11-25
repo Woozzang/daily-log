@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 22.11.26 (금요일)
+- [WWDC21 Meet async/await in Swift 정리](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
+
 ## 22.11.25 (금요일)
 - [Tasks and Task Groups 정리](https://marsh-flavor-e1c.notion.site/Tasks-and-Task-Groups-c0cfb750dcde474aa2c9993fa822b862)
 - [Task 정리](https://marsh-flavor-e1c.notion.site/Task-dc1879200c8d4bf8b3408623ddb5329e)
