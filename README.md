@@ -1,6 +1,10 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 22.11.25 (금요일)
+- [Tasks and Task Groups 정리](https://marsh-flavor-e1c.notion.site/Tasks-and-Task-Groups-c0cfb750dcde474aa2c9993fa822b862)
+- [Task 정리](https://marsh-flavor-e1c.notion.site/Task-dc1879200c8d4bf8b3408623ddb5329e)
+
 ## 22.11.20 (일요일)
 - [Multi-Module App 정리](https://marsh-flavor-e1c.notion.site/Multi-Module-App-28133378db9c49c39a49475c0742c69b)
 - [Bundle - Framework Bundles 정리](https://marsh-flavor-e1c.notion.site/Bundle-Framework-Bundles-a730719e87f54774a86b019351c6d1e6)
