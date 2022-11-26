@@ -2,7 +2,7 @@
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
 ## 22.11.27 (일요일)
-- [ReactorKit 모듈 내부 살펴보기 중](https://marsh-flavor-e1c.notion.site/ReactorKit-19dee78b7dfd4c7e9b0748c9f3316232)
+- [ReactorKit 모듈 내부 살펴보기 70% 완료](https://marsh-flavor-e1c.notion.site/ReactorKit-19dee78b7dfd4c7e9b0748c9f3316232)
 
 ## 22.11.26 (토요일)
 - [WWDC21 Meet async/await in Swift 정리](https://marsh-flavor-e1c.notion.site/WWDC-21-Meet-async-await-in-Swift-448e57347a324b209c58a6acce3302ce)
