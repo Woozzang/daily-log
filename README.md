@@ -1,6 +1,9 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 22.12.06 (화요일)
+- [WWDC 16 Understanding Swift Performance - 50% 정리](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
+
 ## 22.11.27 (일요일)
 - [ReactorKit 모듈 내부 살펴보기 70% 완료](https://marsh-flavor-e1c.notion.site/ReactorKit-19dee78b7dfd4c7e9b0748c9f3316232)
 
