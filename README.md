@@ -1,6 +1,10 @@
 # Daily Log 🥷🏻
 [What do you mean by Code Ninja?](https://javascript.info/ninja-code)
 
+## 22.12.09(금요일)
+- [AutoLayout 문서 정리 중 -Anatomy of a Constraint](https://marsh-flavor-e1c.notion.site/Anatomy-of-a-Constraint-a47bca62fbda46d38d9563a2c9c20488)
+- [WWDC 16 Understanding Swift Performance - 70% 정리](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
+
 ## 22.12.06 (화요일)
 - [WWDC 16 Understanding Swift Performance - 50% 정리](https://marsh-flavor-e1c.notion.site/WWDC-16-Understanding-Swift-Performance-b51aa78f5c16464789ea2706ce9b9293)
 
