@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 22.12.21(수요일)
+- [AnyObject 정리](https://marsh-flavor-e1c.notion.site/AnyObject-867b0040ad2b4b04b1172efd12b6e6c6)
+
 ## 22.12.20(월요일)
 - [다형성 정리](https://marsh-flavor-e1c.notion.site/94ffbae6f7c243008d02e82e241c7010)
 
