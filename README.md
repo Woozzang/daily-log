@@ -2,11 +2,11 @@
 `Rome was not built in a day.`
 
 ## 22.12.23(금요일)
-- [C 포인터 추가정리](https://marsh-flavor-e1c.notion.site/WWDC-20-Unsafe-Swift-871ea5ef766640fc87fe1a9c65976fec#714354ee92de43cf80fc85a7ad075dc1)
+- [C 포인터 추가정리](https://marsh-flavor-e1c.notion.site/Unsafe-Swift-C-aa7fa59ce4914aaa8c4c94dcd1e3c675)
 
 ## 22.12.22(목요일)
 - [WWDC 20 Unsafe Swift - 정리 시작](https://marsh-flavor-e1c.notion.site/WWDC-20-Unsafe-Swift-871ea5ef766640fc87fe1a9c65976fec)
-- [C 포인터 리마인드](https://marsh-flavor-e1c.notion.site/WWDC-20-Unsafe-Swift-871ea5ef766640fc87fe1a9c65976fec#714354ee92de43cf80fc85a7ad075dc1)
+- [C 포인터 리마인드](https://marsh-flavor-e1c.notion.site/Unsafe-Swift-C-aa7fa59ce4914aaa8c4c94dcd1e3c675)
 
 ## 22.12.21(수요일)
 - [AnyObject 정리](https://marsh-flavor-e1c.notion.site/AnyObject-867b0040ad2b4b04b1172efd12b6e6c6)
