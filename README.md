@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 22.12.25(일요일)
+- [WWDC 15 Optimizing Swift Performance - 정리 시작 🏃🏻‍♂️](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
+
 ## 22.12.24(토요일)
 - [WWDC 20 Unsafe Swift - 100% 정리](https://marsh-flavor-e1c.notion.site/WWDC-20-Unsafe-Swift-871ea5ef766640fc87fe1a9c65976fec)
 
