@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 22.12.27(화요일)
+- [WWDC 18 Understanding Crashes and Crash Logs - 궁금한 부분 정리](https://marsh-flavor-e1c.notion.site/WWDC-18-Understanding-Crashes-and-Crash-Logs-a9b508d0644d46a6b6aa1c56191e04b6)
+
 ## 22.12.25(일요일)
 - [WWDC 15 Optimizing Swift Performance - 정리 시작 🏃🏻‍♂️](https://marsh-flavor-e1c.notion.site/WWDC-15-Optimizing-Swift-Performance-2474a309450d4b7f971cba6397224ead)
 
