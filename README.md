@@ -2,7 +2,7 @@
 `Rome was not built in a day.`
 
 ## 22.12.29(목요일)
-- [Copy on Write 완벽정리](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
+- [Copy on Write 정리](https://marsh-flavor-e1c.notion.site/COW-a1cd98edeeb34fbdbc60f6588342ed16)
 
 ## 22.12.28(수요일)
 - [apple/swfit/docs/StringDesign 문서 정리](https://marsh-flavor-e1c.notion.site/apple-swfit-docs-StringDesign-0b0ec2dcf2c348218261d0635603e53f)
