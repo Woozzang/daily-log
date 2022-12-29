@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 22.12.28(수요일)
+- [apple/swfit/docs/StringDesign 문서 정리](https://marsh-flavor-e1c.notion.site/apple-swfit-docs-StringDesign-0b0ec2dcf2c348218261d0635603e53f)
+
 ## 22.12.27(화요일)
 - [WWDC 18 Understanding Crashes and Crash Logs - 궁금한 부분 정리](https://marsh-flavor-e1c.notion.site/WWDC-18-Understanding-Crashes-and-Crash-Logs-a9b508d0644d46a6b6aa1c56191e04b6)
 
