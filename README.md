@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.01.02(월요일)
+- [WWDC 22 Embrcae Swift generics - 정리 완료](https://marsh-flavor-e1c.notion.site/WWDC-22-Embrace-Swift-generics-6a0dbfb0f35e43dfbbeda1e389ce8b54)
+
 ## 23.01.01(일요일)
 - [WWDC 22 Embrcae Swift generics - 30% 정리](https://marsh-flavor-e1c.notion.site/WWDC-22-Embrace-Swift-generics-6a0dbfb0f35e43dfbbeda1e389ce8b54)
 
