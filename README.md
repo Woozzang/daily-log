@@ -2,6 +2,10 @@
 `Rome was not built in a day.`
 
 ## 23.01.02(월요일)
+- [HTTP 메서드 정리](https://marsh-flavor-e1c.notion.site/HTTP-fb7d716c047c459291c1e0b59b77cabc)
+- [Static type, Dynamic type, Concrete type - 정리 중](https://marsh-flavor-e1c.notion.site/static-type-dynamic-type-concrete-type-b153788182f941a6801274d1a92875f2)
+
+## 23.01.02(월요일)
 - [WWDC 22 Embrcae Swift generics - 정리 완료](https://marsh-flavor-e1c.notion.site/WWDC-22-Embrace-Swift-generics-6a0dbfb0f35e43dfbbeda1e389ce8b54)
 
 ## 23.01.01(일요일)
