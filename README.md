@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.01.03(수요일)
+- [HTTP 메서드 활용 - 클라이언트에서 서버로 데이터 전송 정리](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
+
 ## 23.01.02(월요일)
 - [HTTP 메서드 정리](https://marsh-flavor-e1c.notion.site/HTTP-fb7d716c047c459291c1e0b59b77cabc)
 - [Static type, Dynamic type, Concrete type, Abstract type 정리](https://marsh-flavor-e1c.notion.site/static-type-dynamic-type-concrete-type-b153788182f941a6801274d1a92875f2)
