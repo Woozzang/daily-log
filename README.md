@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.01.04(목요일)
+- [SLASH 21 메모리에 남지 않는 문자열 - 정리 시작](https://marsh-flavor-e1c.notion.site/SLASH-21-ce9235c5084842558e8d2b3c8b965e71)
+
 ## 23.01.03(수요일)
 - [HTTP 메서드 활용 - 클라이언트에서 서버로 데이터 전송 정리](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
 
