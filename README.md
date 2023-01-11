@@ -1,5 +1,6 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.01.10(목요일)
 
 ## 23.01.10(목요일)
 - [HTTP 메서드 활용 정리](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
