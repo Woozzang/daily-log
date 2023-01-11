@@ -1,8 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
-## 23.01.10(목요일)
+## 23.01.11(수요일)
+- [iOS 인터뷰 스터디 및 정리(🔒비공개)](https://www.notion.so/Delegate-91a0bdf5a73a4dc4a9a2e64cf9252e99)
 
-## 23.01.10(목요일)
+## 23.01.10(화요일)
 - [HTTP 메서드 활용 정리](https://marsh-flavor-e1c.notion.site/HTTP-cb1af0ec34214d4da4f4af529514fa84)
 
 ## 23.01.04(목요일)
