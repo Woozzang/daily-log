@@ -1,5 +1,10 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+
+## 23.01.12(일요일)
+- [HTTP 상태코드 - 3xx 정리](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822#79dfdad4134d43be8a6d9fb4c4cc677e)
+- [HTTP 상태코드 - 4xx, 5xx 정리](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822#9e0f615a7edf4eacb8e4858b076f783e)
+
 ## 23.01.12(목요일)
 - [HTTP 상태코드 - 2xx 정리](https://marsh-flavor-e1c.notion.site/HTTP-6da7a207a8234e7aa316507561a7c822)
 
