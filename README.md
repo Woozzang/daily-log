@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.02.04(목요일)
+- [HTTP 헤더 - 검증 헤더와 조건부 요청 정리](https://marsh-flavor-e1c.notion.site/HTTP-f2b2767f86bb4685b745bbcae744a0c3)
+
 ## 23.01.19(목요일)
 - [HTTP 일반헤더 - 표현 정리](https://marsh-flavor-e1c.notion.site/HTTP-6cbce129134d4404953682eedfc536be)
 
