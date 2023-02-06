@@ -1,7 +1,10 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
-## 23.02.04(목요일)
+## 23.02.05(일요일)
+- [HTTP 헤더 - 캐시 관련 헤더, 프록시 캐시, 캐시 무효호 정리](https://marsh-flavor-e1c.notion.site/HTTP-f2b2767f86bb4685b745bbcae744a0c3)
+
+## 23.02.02(목요일)
 - [HTTP 헤더 - 검증 헤더와 조건부 요청 정리](https://marsh-flavor-e1c.notion.site/HTTP-f2b2767f86bb4685b745bbcae744a0c3)
 
 ## 23.01.19(목요일)
