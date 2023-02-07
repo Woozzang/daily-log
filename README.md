@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.02.07(화요일)
+- [모듈 만들어보기](https://marsh-flavor-e1c.notion.site/Swift-24836f4eac7244ff90803d921102cd87)
+
 ## 23.02.05(일요일)
 - [HTTP 헤더 - 캐시 관련 헤더, 프록시 캐시, 캐시 무효호 정리](https://marsh-flavor-e1c.notion.site/HTTP-f2b2767f86bb4685b745bbcae744a0c3)
 
