@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.02.09(목요일)
+- [Kingfisher 분석 (진행 중)](https://marsh-flavor-e1c.notion.site/Kingfisher-dc0c24182bc54d9cbf0bc0689acc051e)
+
 ## 23.02.08(수요일)
 - [SPM 한번 배포해보기](https://marsh-flavor-e1c.notion.site/SPM-33f7273138294d02aab891feedcfe7c6)
 
