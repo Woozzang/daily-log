@@ -3,7 +3,8 @@
 
 ## 23.02.11(토요일)
 - [Receiving and Handling Events with Combine 정리](https://marsh-flavor-e1c.notion.site/Receiving-and-Handling-Events-with-Combine-0cd9201fa0644f0a9c765d0950481f55)
-- [https://marsh-flavor-e1c.notion.site/Using-Combine-for-Your-App-s-Asynchronous-Code-cab7416fa045409f8f80036a8e25cb83](https://marsh-flavor-e1c.notion.site/Using-Combine-for-Your-App-s-Asynchronous-Code-cab7416fa045409f8f80036a8e25cb83)
+
+- [Using Combine for Your App’s Asynchronous Code 정리](https://marsh-flavor-e1c.notion.site/Using-Combine-for-Your-App-s-Asynchronous-Code-cab7416fa045409f8f80036a8e25cb83)
 
 ## 23.02.09(목요일)
 - [Kingfisher 분석 (진행 중)](https://marsh-flavor-e1c.notion.site/Kingfisher-dc0c24182bc54d9cbf0bc0689acc051e)
