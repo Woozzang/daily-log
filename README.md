@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.02.12(일요일)
+- [Combine - Transforming Operators 정리](https://marsh-flavor-e1c.notion.site/Transforming-Operators-f7f740e101d34c79bd7040b7a26d1b18)
+
 ## 23.02.11(토요일)
 - [Receiving and Handling Events with Combine 정리](https://marsh-flavor-e1c.notion.site/Receiving-and-Handling-Events-with-Combine-0cd9201fa0644f0a9c765d0950481f55)
 
