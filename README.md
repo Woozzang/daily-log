@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.02.13(월요일)
+- [JWT 간단정리](https://marsh-flavor-e1c.notion.site/JWT-4461318e23864cc4bcc825ef0b0a936c)
+
 ## 23.02.12(일요일)
 - [Combine - Transforming Operators 정리](https://marsh-flavor-e1c.notion.site/Transforming-Operators-f7f740e101d34c79bd7040b7a26d1b18)
 
