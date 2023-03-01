@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.03.01(수요일)
+- [Driver vs Signal](https://marsh-flavor-e1c.notion.site/Driver-vs-Signal-da8b86072bd6486f97f32567d1e2eb27)
+
 ## 23.02.17(금요일)
 - [Never 타입 정리](https://marsh-flavor-e1c.notion.site/Never-b0e7f49c339540ff9bfbd94be916dba5)
 
