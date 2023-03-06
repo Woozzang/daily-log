@@ -1,11 +1,11 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
-## 23.03.04(수요일)
-- [wihtLasteFrom vs CombineLatest](https://marsh-flavor-e1c.notion.site/combineLatest-vs-withLatestFrom-f23db536e88e48cdb95bccf2c13612fc)
-
 ## 23.03.06(월요일)
 - [Apple 디자인 챌린지 (APAC) - Part 1 내용 정리](https://marsh-flavor-e1c.notion.site/Apple-APAC-Part-1-7351dfe4fabe4f989f74127e8d0f0c4b)
+
+## 23.03.04(수요일)
+- [wihtLasteFrom vs CombineLatest](https://marsh-flavor-e1c.notion.site/combineLatest-vs-withLatestFrom-f23db536e88e48cdb95bccf2c13612fc)
 
 ## 23.03.01(수요일)
 - [Driver vs Signal](https://marsh-flavor-e1c.notion.site/Driver-vs-Signal-da8b86072bd6486f97f32567d1e2eb27)
