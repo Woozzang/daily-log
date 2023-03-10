@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.03.10(금요일)
+- [SubscribeOn vs ObserveOn](https://marsh-flavor-e1c.notion.site/SubscribeOn-vs-ObserveOn-36418970644b4af0a598056f1111d323)
+
 ## 23.03.06(월요일)
 - [Apple 디자인 챌린지 (APAC) - Part 1 내용 정리](https://marsh-flavor-e1c.notion.site/Apple-APAC-Part-1-7351dfe4fabe4f989f74127e8d0f0c4b)
 
