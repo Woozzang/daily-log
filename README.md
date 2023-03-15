@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.03.15(수요일)
+- [WWDC 21: Use async/await with URLSession](https://marsh-flavor-e1c.notion.site/WWDC-21-Use-async-await-with-URLSession-8c4e4dfdface412eace10bfaef773347)
+
 ## 23.03.10(금요일)
 - [SubscribeOn vs ObserveOn](https://marsh-flavor-e1c.notion.site/SubscribeOn-vs-ObserveOn-36418970644b4af0a598056f1111d323)
 
