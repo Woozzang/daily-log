@@ -1,5 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+
+## 23.03.24(토요일)
+-[SOLID 원칙들](https://marsh-flavor-e1c.notion.site/SOLID-9eb5f0045d554f309f3e30c85addcf65)
+
 ## 23.03.23(목요일)
 - [Combine - Publishers & Subscribers](https://www.notion.so/Publishers-Subscribers-cad5a2c4fad244369060d3537da3f33a?pvs=4)
 - [Sequence Operators](https://marsh-flavor-e1c.notion.site/Sequence-Operators-b4c5e03fb06e4aea9b3b40dabe662805)
