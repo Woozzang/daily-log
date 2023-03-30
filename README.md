@@ -2,7 +2,7 @@
 `Rome was not built in a day.`
 
 ## 23.03.30(목요일)
-- [In Practice: Project “Collage Neue”](https://marsh-flavor-e1c.notion.site/In-Practice-Project-Collage-Neue-10b52f51c4e241e18c25307723b37d46)
+- [Combine 스터디 중간 프로젝트 In Practice: Project “Collage Neue”](https://marsh-flavor-e1c.notion.site/In-Practice-Project-Collage-Neue-10b52f51c4e241e18c25307723b37d46)
 
 ## 23.03.25(토요일)
 - [SOLID 원칙들](https://marsh-flavor-e1c.notion.site/SOLID-9eb5f0045d554f309f3e30c85addcf65)
