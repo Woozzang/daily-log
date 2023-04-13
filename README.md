@@ -3,6 +3,8 @@
 
 ## 23.04.13(목요일)
 - [BOJ 2852](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/2852.swift)
+- [BOJ 1436](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/1436.swift)
+- [BOJ 9012](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/9012.swift)
 
 ## 23.04.11(화요일)
 - [BOJ 3474](https://marsh-flavor-e1c.notion.site/BOJ-3474-1ecedded615b4bf686bb46af9db01935)
