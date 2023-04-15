@@ -2,6 +2,7 @@
 `Rome was not built in a day.`
 
 ## 23.04.15(토요일)
+- [BOJ 14502](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/14502.swift)
 - [BOJ 4949](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/4949.swift)
 
 ## 23.04.13(목요일)
