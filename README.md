@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.04.20(목요일)
+- [BOJ 15686](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/15686.swift)
+
 ## 23.04.18(회요일)
 - [BOJ 17298](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/17298.swift)
 
