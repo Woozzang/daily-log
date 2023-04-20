@@ -2,6 +2,7 @@
 `Rome was not built in a day.`
 
 ## 23.04.20(목요일)
+- [Combine - Debugging Operator](https://marsh-flavor-e1c.notion.site/Debugging-17340595aa4a4983a7ec18dfa2fe7562)
 - [BOJ 15686](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/15686.swift)
 
 ## 23.04.18(회요일)
