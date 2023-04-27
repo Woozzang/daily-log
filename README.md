@@ -1,5 +1,8 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.04.26(수요일)
+- [@MainActor and @globalActor](https://marsh-flavor-e1c.notion.site/MainActor-and-Global-Actors-f2e76c23fe0340ee8495aa8df73e2d15)
+
 ## 23.04.24(월요일)
 - [Existential type](https://marsh-flavor-e1c.notion.site/Existential-type-d6ca8aad33234e03b275cfdcc22a0671)
 - [type(of:)](https://marsh-flavor-e1c.notion.site/type-of-c9fbd14ffb0a46658ce1bf700171a710)
