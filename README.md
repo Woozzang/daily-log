@@ -1,5 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+
+## 23.04.27(수요일)
+- [BOJ 12869](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/12869.swift)
+
 ## 23.04.26(수요일)
 - [@MainActor and @globalActor](https://marsh-flavor-e1c.notion.site/MainActor-and-Global-Actors-f2e76c23fe0340ee8495aa8df73e2d15)
 
