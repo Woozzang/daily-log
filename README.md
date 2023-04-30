@@ -1,6 +1,10 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.05.01(월요일)
+- [Demistifying iOS Layout](https://marsh-flavor-e1c.notion.site/Demystifying-iOS-Layout-5aad1c164b1e49d0a2786494371cac67)
+- [Programmers 카펫](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/카펫.swift)
+
 ## 23.04.30(일요일)
 - [BOJ 16637](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/16637.swift)
 
