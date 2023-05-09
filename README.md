@@ -3,6 +3,7 @@
 
 ## 23.05.08(화요일)
 - [Programmers 짝지어 제거하기](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/짝지어_제거하기.swift)
+- [Programmers k진수에서 소수 개수 구하기](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/k진수에서_소수_개수_구하기.swift)
 
 ## 23.05.08(월요일)
 - [Programmers 삼각 달팽이](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/삼각달팽이.swift)
