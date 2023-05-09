@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.05.08(화요일)
+- [Programmers 짝지어 제거하기](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/짝지어_제거하기.swift)
+
 ## 23.05.08(월요일)
 - [Programmers 삼각 달팽이](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/삼각달팽이.swift)
 
