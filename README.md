@@ -1,7 +1,10 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
-## 23.05.08(화요일)
+## 23.05.10(수요일)
+- [BOJ 12851](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/12851.swift)
+
+## 23.05.09(화요일)
 - [Programmers 짝지어 제거하기](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/짝지어_제거하기.swift)
 - [Programmers k진수에서 소수 개수 구하기](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/k진수에서_소수_개수_구하기.swift)
 
