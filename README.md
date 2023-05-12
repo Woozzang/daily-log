@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.05.12(금요일)
+- [Sever Sent Events 정리]()
+
 ## 23.05.10(수요일)
 - [BOJ 12851](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/12851.swift)
 
