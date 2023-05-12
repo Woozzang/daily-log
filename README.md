@@ -2,7 +2,7 @@
 `Rome was not built in a day.`
 
 ## 23.05.12(금요일)
-- [Sever Sent Events 정리]()
+- [Sever Sent Events 정리](https://www.notion.so/Server-Sent-Event-82d7ecdb4af242fab9934b4cc4c72fc1?pvs=4)
 
 ## 23.05.10(수요일)
 - [BOJ 12851](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/12851.swift)
