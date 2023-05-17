@@ -3,7 +3,7 @@
 
 ## 23.05.17(수요일)
 - [Programmers 메뉴 리뉴얼 - 2021 KAKAO BLIND RECRUITMENT](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/메뉴리뉴얼.swift)
-- [Programmers 메뉴 리뉴얼 - 2021 Dev-Matching: 웹 백엔드 개발자...](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.swift)
+- [Programmers 행렬 테두리 회전하기 - 2021 Dev-Matching: 웹 백엔드 개발자...](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/행렬%20테두리%20회전하기.swift)
 
 ## 23.05.12(금요일)
 - [Sever Sent Events 정리](https://marsh-flavor-e1c.notion.site/Server-Sent-Event-82d7ecdb4af242fab9934b4cc4c72fc1)
