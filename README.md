@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.05.20(토요일)
+- [Keyboard 정리](https://marsh-flavor-e1c.notion.site/247778ccea7e4fcda0ffe5bbf8d4a7fe)
+
 ## 23.05.18(목요일)
 - [BOJ 13913](https://github.com/Woozzang/study-swift-algorithm/blob/master/BOJ/13913.swift)
 
