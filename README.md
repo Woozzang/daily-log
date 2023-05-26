@@ -2,7 +2,7 @@
 `Rome was not built in a day.`
 
 ## 23.05.26(금요일)
-- [프로그래머스 호텔대실](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/호텔대실.swift)
+- [Programmers 호텔대실](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/호텔대실.swift)
 
 ## 23.05.20(토요일)
 - [Keyboard 정리](https://marsh-flavor-e1c.notion.site/247778ccea7e4fcda0ffe5bbf8d4a7fe)
