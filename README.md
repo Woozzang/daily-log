@@ -3,6 +3,7 @@
 
 ## 23.05.30(화요일)
 - [Combine - Timers](https://marsh-flavor-e1c.notion.site/Timers-1bcfa853985d4967b0e4620ef5368f6b)
+- [Combine - KVO](https://marsh-flavor-e1c.notion.site/Key-Value-Observing-29f2e8a8aa25451e830b70995311f04c)
 
 ## 23.05.26(금요일)
 - [Programmers 호텔대실](https://github.com/Woozzang/study-swift-algorithm/blob/master/Programmers/호텔대실.swift)
