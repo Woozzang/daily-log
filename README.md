@@ -1,6 +1,9 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.06.06(화요일)
+- [Modern Collection Views with Compositional Layouts 정리](https://marsh-flavor-e1c.notion.site/Modern-Collection-Views-with-Compositional-Layouts-b6ffcd223770400ebb003acb053bc734)
+
 ## 23.05.31(수요일)
 - [Combine - Resource Management](https://marsh-flavor-e1c.notion.site/Resource-Management-01eef08045a044ca9a9bbefd74eb071a)
 
