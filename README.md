@@ -1,8 +1,10 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 
+## 23.06.25(일요일)
+- [SwiftUI Essentials - Handling User Input](https://marsh-flavor-e1c.notion.site/Handling-User-Input-e552245d3fec4d38b5ffcb3bf8356d9d?pvs=4)
 ## 23.06.20(목요일)
-- [SwiftUI 실습 - Creating and combining Views](https://marsh-flavor-e1c.notion.site/Creating-and-Combining-Views-f5feb3b8ab9742b391b84a159a88b424?pvs=4)
+- [SwiftUI Essentials - Creating and combining Views](https://marsh-flavor-e1c.notion.site/Creating-and-Combining-Views-f5feb3b8ab9742b391b84a159a88b424?pvs=4)
 
 ## 23.06.06(화요일)
 - [Modern Collection Views with Compositional Layouts 정리](https://marsh-flavor-e1c.notion.site/Modern-Collection-Views-with-Compositional-Layouts-b6ffcd223770400ebb003acb053bc734)
