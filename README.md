@@ -3,6 +3,8 @@
 
 ## 23.06.25(일요일)
 - [SwiftUI Essentials - Handling User Input](https://marsh-flavor-e1c.notion.site/Handling-User-Input-e552245d3fec4d38b5ffcb3bf8356d9d?pvs=4)
+## 23.06.21(금요일)
+- [SwiftUI Essentials - Building Lists and Navigation](https://marsh-flavor-e1c.notion.site/Building-Lists-and-Navigation-35df634193e5473e93f3dc74ee574411?pvs=4)
 ## 23.06.20(목요일)
 - [SwiftUI Essentials - Creating and combining Views](https://marsh-flavor-e1c.notion.site/Creating-and-Combining-Views-f5feb3b8ab9742b391b84a159a88b424?pvs=4)
 
