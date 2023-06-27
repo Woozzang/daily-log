@@ -1,8 +1,10 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+
+## 23.06.28(수요일)
+- [SwiftUI Essentials - Composing Complex Interfaces](https://marsh-flavor-e1c.notion.site/Composing-Complex-Interfaces-1c86439ffb694389ab4fd5f2667a84f7?pvs=4)
 ## 23.06.27(화요일)
 - [Fetching Website Data into Memory](https://marsh-flavor-e1c.notion.site/Fetching-Website-Data-into-Memory-e7a855b7c33747c98ca0a0315347800f?pvs=4)
-
 ## 23.06.25(일요일)
 - [SwiftUI Essentials - Handling User Input](https://marsh-flavor-e1c.notion.site/Handling-User-Input-e552245d3fec4d38b5ffcb3bf8356d9d?pvs=4)
 ## 23.06.21(금요일)
