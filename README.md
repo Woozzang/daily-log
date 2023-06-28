@@ -3,6 +3,7 @@
 
 ## 23.06.28(수요일)
 - [SwiftUI Essentials - Composing Complex Interfaces](https://marsh-flavor-e1c.notion.site/Composing-Complex-Interfaces-1c86439ffb694389ab4fd5f2667a84f7?pvs=4)
+- [SwiftUI Essentials - Working with UI Controls](https://marsh-flavor-e1c.notion.site/Working-with-UI-Controls-4869a7b04b9d468e89ad878fd3fb946f?pvs=4)
 ## 23.06.27(화요일)
 - [Fetching Website Data into Memory](https://marsh-flavor-e1c.notion.site/Fetching-Website-Data-into-Memory-e7a855b7c33747c98ca0a0315347800f?pvs=4)
 ## 23.06.25(일요일)
