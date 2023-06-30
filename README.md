@@ -1,5 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.06.30(금요일)
+- [Analyzing HTTP traffics with Instruments](https://marsh-flavor-e1c.notion.site/Analyzing-HTTP-Traffic-with-Instruments-651b2cb786024b3c85d2fa07dd6985fc?pvs=4)
 
 ## 23.06.28(수요일)
 - [SwiftUI Essentials - Composing Complex Interfaces](https://marsh-flavor-e1c.notion.site/Composing-Complex-Interfaces-1c86439ffb694389ab4fd5f2667a84f7?pvs=4)
