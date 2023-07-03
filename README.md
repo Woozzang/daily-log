@@ -1,5 +1,8 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+
+## 23.07.03(월요일)
+- [Kodeco - Beginning Networking with URLSesisons](https://marsh-flavor-e1c.notion.site/Beginning-Networking-with-URLSession-a3044e6f11bc43628529c22b02fd3cb0?pvs=4)
 ## 23.06.30(금요일)
 - [Analyzing HTTP traffics with Instruments](https://marsh-flavor-e1c.notion.site/Analyzing-HTTP-Traffic-with-Instruments-651b2cb786024b3c85d2fa07dd6985fc?pvs=4)
 
