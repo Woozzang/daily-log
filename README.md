@@ -1,6 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 ## 23.07.10(월요일)
+**학습 중: URL Loading System**
 - [Instruments - Network](https://marsh-flavor-e1c.notion.site/Network-Template-b2768861490f4845aa8808293ea8d9ee?pvs=4)
 ## 23.07.08(토요일)
 - [URLCache & CachePolicy](https://marsh-flavor-e1c.notion.site/URLCache-Cache-Policy-54a1c686acf441c496d6e12713abcceb?pvs=4)
