@@ -1,5 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.10.27(금요일)
+- [UIStackView.Alignment.top 적용 UI 기록](https://www.notion.so/UIStackView-d9f5d67fc63e4633b888c217418f297d?pvs=4#b3033923d662456da3aa2bad0d973320)
 ## 23.08.20(일요일)
 - [Writing Good methods](https://marsh-flavor-e1c.notion.site/Writing-good-methods-eaec10651484466ebf803287c771bafb?pvs=4)
 - [Understanding side effects](https://marsh-flavor-e1c.notion.site/Understanding-side-effects-cb78e7191e7d4296a2806b2278996d0b?pvs=4)
