@@ -1,5 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.10.30(월요일)
+- [Updating an App to Use Swift Concurrency](https://marsh-flavor-e1c.notion.site/Updating-an-App-to-Use-Swift-Concurrency-2bd222a7b4274a15b472d274ee57202c?pvs=4)
 ## 23.10.27(금요일)
 - [UIStackView.Alignment.top 적용 UI 기록](https://www.notion.so/UIStackView-d9f5d67fc63e4633b888c217418f297d?pvs=4#b3033923d662456da3aa2bad0d973320)
 ## 23.08.20(일요일)
