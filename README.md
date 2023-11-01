@@ -1,5 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.11.02(목요일)
+- [LLDB 정복](https://marsh-flavor-e1c.notion.site/LLDB-cb4d33d68f86419f9614ef12853cbed2?pvs=4)
 ## 23.10.30(월요일)
 - [Updating an App to Use Swift Concurrency](https://marsh-flavor-e1c.notion.site/Updating-an-App-to-Use-Swift-Concurrency-2bd222a7b4274a15b472d274ee57202c?pvs=4)
 ## 23.10.27(금요일)
