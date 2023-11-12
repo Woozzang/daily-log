@@ -1,5 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.11.12(일요일)
+- [Objective-C :: Defining Classes](https://marsh-flavor-e1c.notion.site/Defining-Classes-8c6bbf93033b465cb59d77eef1802b44?pvs=4)
 ## 23.11.02(목요일)
 - [LLDB 정복](https://marsh-flavor-e1c.notion.site/LLDB-cb4d33d68f86419f9614ef12853cbed2?pvs=4)
 ## 23.10.30(월요일)
