@@ -1,7 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
 ## 23.12.10(일요일)
-- Mastering Swift UI 강의 시청 - Swift UI Memo #4~#7
+- Mastering SwiftUI 강의 시청 및 기록 - Swift UI Memo #4~#7
 ## 23.11.12(일요일)
 - [Objective-C :: Defining Classes](https://marsh-flavor-e1c.notion.site/Defining-Classes-8c6bbf93033b465cb59d77eef1802b44?pvs=4)
 ## 23.11.02(목요일)
