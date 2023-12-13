@@ -1,5 +1,8 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.12.13(수요일)
+- [Structured Concurrency 정리](https://marsh-flavor-e1c.notion.site/Structured-Concurrency-04f975e435444a80a85ec8333aab21a1?pvs=4)
+
 ## 23.12.10(일요일)
 - Mastering SwiftUI 강의 시청 및 기록 - Swift UI Memo #4~#7
 ## 23.11.12(일요일)
