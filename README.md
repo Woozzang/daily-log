@@ -1,5 +1,7 @@
 # Daily Log 🏛
 `Rome was not built in a day.`
+## 23.12.27(수요일)
+- [Dart Future type, async-await](https://www.notion.so/Asynchronous-programming-94322573fb624d63a730fcdca7de5562?pvs=4)
 ## 23.12.15(금요일)
 - [Xcode Build Process](https://marsh-flavor-e1c.notion.site/Xcode-Build-Process-bd9c030675d04046a71305cc3e9f7c82?pvs=4)
 ## 23.12.13(수요일)
